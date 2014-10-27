@@ -1,0 +1,13 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 304826753- Lior Asulin
+Second Student Details: 301123725 - Or Ofer
+Delivery Date.........: 29 - December- 2013
+Delivered In Delay....: No
+Delay Reason..........: --- 		
+Comments..............: Bonus implementation:
+				    The following logic events are handled by the interface:
+				    Change of game board cell's logic value - event LogicValueChanged in class LogicBoardCell.
+				    Change of board logic when a column becomes Full - event ColumnFull in class GameManager.
+				    Change of logcial game status, when game over occurs - event GameOver in class GameManager.
+========================End Exercise Checking Report========================
